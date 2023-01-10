@@ -87,8 +87,8 @@ body {
   margin-left: 24px;
 }
 
-.header__logo {
-  background-image: url('/web-block/1.4/assets2/icon/Group.png');
+.menu__logo {
+  background-image: url('assets2/icon/Group.png');
   outline: none;
   background-repeat: no-repeat;
   background-position: center;
@@ -151,15 +151,15 @@ body {
 }
 
 .button__icon--chel {
-  background-image: url('/web-block/1.4/assets2/icon/chel.png')
+  background-image: url('./assets2/icon/chel.png')
 }
 
 .button__icon--sms {
-  background-image: url('/web-block/1.4/assets2/icon/sms.png')
+  background-image: url('./assets2/icon/sms.png')
 }
 
 .button__icon--phone {
-  background-image: url('/web-block/1.4/assets2/icon/phone.png')
+  background-image: url('./assets2/icon/phone.png')
 }
 
 .contacts__email {
